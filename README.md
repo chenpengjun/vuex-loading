@@ -1,0 +1,2 @@
+# vuex-loading
+vuex-loading
