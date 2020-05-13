@@ -2,7 +2,7 @@
 参照dva-loading
 
 #如何使用
-`
+` ``
   import Vue from 'vue'
   import Vuex from './vuex'
   import VuexLoading from './vuex-loading'
@@ -14,5 +14,5 @@
     plugins:[VuexLoading]
   })
   export default store
-`
+` ``
 
