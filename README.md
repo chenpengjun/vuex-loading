@@ -1,8 +1,8 @@
 # vuex-loading
 参照dva-loading
 
-#如何使用
-#store先引入vuex-laoding插件
+# 如何使用
+# store先引入vuex-laoding插件
 ```
   import Vue from 'vue'
   import Vuex from './vuex'
@@ -18,7 +18,7 @@
   })
   export default store
 ```
-#user组件如何获取action状态
+# user组件如何获取action状态
 ```
   loading.effects['user/getUserInfo'] or this.state.loading.effects['user/getUserInfo']
 ```
